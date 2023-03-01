@@ -1,2 +1,2 @@
 # webcrawlerhttp
-Project for the Learn HTTP course
+Web crawling to extract information from the web
